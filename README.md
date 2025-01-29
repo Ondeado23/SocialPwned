@@ -253,3 +253,4 @@ docker run -v $(pwd)/credentials.json:/socialpwned/credentials.json -v $(pwd)/ou
 The usage of SocialPwned to attack targets without prior mutual consent is illegal. In addition, it makes use of different modules that violate Linkedin and Instagram rules, therefore, you will be banned temporarily or permanently.
 
 It is the responsibility of the end user to use SocialPwned. The developers are not responsible and are not liable for any misuse or damage caused.
+#eerr
